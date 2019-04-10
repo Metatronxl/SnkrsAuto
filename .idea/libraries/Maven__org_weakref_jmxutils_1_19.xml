@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.weakref:jmxutils:1.19">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/weakref/jmxutils/1.19/jmxutils-1.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/weakref/jmxutils/1.19/jmxutils-1.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/weakref/jmxutils/1.19/jmxutils-1.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
